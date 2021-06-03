@@ -5,8 +5,8 @@ public class Robot{
 	//Main
 	public static void main(String[] args) {
 
-		Robot_class r1 = new Robot_class("Pikachu", "blue", "Confusion");
-		Robot_class r2 = new Robot_class("Glurak", "green", "Water");
+		Robot_class r1 = new Robot_class("Pikachu", "blue", "Electricity");
+		Robot_class r2 = new Robot_class("Glurak", "green", "Fire/Flight");
 		
 		r1.introduce();
 		r2.introduce();
